@@ -1,2 +1,3 @@
 # my-FirstRepo
-test Repository
+I am niting having good experiance in iOS app developement.
+I am top of india.
